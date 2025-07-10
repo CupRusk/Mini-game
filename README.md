@@ -24,7 +24,7 @@
 1. Установи зависимости:
 
 ```bash
-pip install pyTelegramBotAPI
+pip install telebot
 ```
 
 2. Заполни `BOT-TOKEN` в `main.py`:
